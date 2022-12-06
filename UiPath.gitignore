@@ -1,0 +1,4 @@
+# Folders to ignore in UiPath Studio solutions
+**/.entities
+**/.settings
+**/.local
